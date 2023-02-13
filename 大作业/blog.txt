@@ -1,0 +1,11 @@
+第一题：
+https://blog.csdn.net/qq_43630348/article/details/104002665?utm_medium=distribute.pc_relevant_download.none-task-blog-baidujs-2.nonecase&depth_1-utm_source=distribute.pc_relevant_download.none-task-blog-baidujs-2.nonecase
+
+https://blog.csdn.net/a19990412/article/details/85232839
+
+https://www.jeddd.com/article/use-python-to-solve-lasso-by-pgd-admm-and-subgd.html
+
+
+
+第二题：
+https://blog.csdn.net/dingdingdodo/article/details/104183571
